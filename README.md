@@ -8,7 +8,7 @@ Adicionar Nova Sala
 Esta rota permite adicionar um novo projeto ao sistema.
 Método
 POST
-Caminho
+path:
 /rooms/add
 Parâmetros da Requisição
 Nome (obrigatório): AZCapital.
@@ -52,7 +52,7 @@ Esta rota permite ver a lista de salas disponiveis.
 
 Método
 GET
-Caminho
+path:
 /rooms/all
 
 Respostas
