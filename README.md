@@ -1,5 +1,7 @@
 ﻿# 41_challenge-AZCap_API-noframework_fullJava
 
+nota:
+precisa adicionar livraria externa antes de executar
 
 <h1>endpoints:</h1>
 <hr>
