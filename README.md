@@ -46,6 +46,9 @@ Corpo da Requisição
 Exemplo de Resposta (200 OK)
 { empty(void)  }
 
+![postman_post](https://github.com/josevflores911/41_challenge-AZCap_API-noframework_fullJava/assets/59713685/c38f4fb5-f2e2-464b-9ec0-9ba345017887)
+
+
 Obter todas as salas
 
 Esta rota permite ver a lista de salas disponiveis.
@@ -78,4 +81,6 @@ Observações
 •	A API retorna um código de status HTTP correspondente à situação da requisição.
 •	Utilize uma biblioteca cliente HTTP ou ferramenta como cURL ou Postman para fazer chamadas à API.
 
+![browser_get](https://github.com/josevflores911/41_challenge-AZCap_API-noframework_fullJava/assets/59713685/a7e47398-112d-42d7-a408-b690ba8620a5)
 
+![postman_get](https://github.com/josevflores911/41_challenge-AZCap_API-noframework_fullJava/assets/59713685/cbe38faf-52cf-4f54-a37b-7e3f54b1a13f)
