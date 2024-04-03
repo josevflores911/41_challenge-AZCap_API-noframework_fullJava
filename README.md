@@ -4,6 +4,7 @@
 <h1>endpoints:</h1>
 <hr>
 Adicionar Nova Sala
+
 Esta rota permite adicionar um novo projeto ao sistema.
 Método
 POST
@@ -46,7 +47,9 @@ Exemplo de Resposta (200 OK)
 { empty(void)  }
 
 Obter todas as salas
+
 Esta rota permite ver a lista de salas disponiveis.
+
 Método
 GET
 Caminho
